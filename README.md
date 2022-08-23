@@ -1,4 +1,6 @@
 # Experiences
+<img src="Exp.png">
+
 ## Acquired Exams
 > Sort by timeline.
 - [1- Microsoft Azure Fundamentals](1°AZ-900.pdf)
