@@ -1,4 +1,3 @@
-Hey, this repo is primarily for my personal use.
 # Experiences
 ## Acquired Exams
 > Sort by timeline.
