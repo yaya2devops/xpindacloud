@@ -16,3 +16,7 @@
 - [14- Microsoft Security Operations Analyst Associate](13°SC-200.pdf)
 - [15- AWS Certified Cloud Practitioner ](14°%20AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
+# Azure Journey
+<img src="AZJOURNEY.png">
+
+> Best regards,
