@@ -1,1 +1,16 @@
-> for structure later
+# Acquired Exams
+> Sort by timeline.
+- [1- Microsoft Azure Fundamentals](1°AZ-900.pdf)
+- [2- Microsoft Azure Data Fundamentals ]()
+- [3- Microsoft Azure AI Fundamentals ]()
+- [4- Microsoft Power Platform Fundamentals ]()
+- [5- Microsoft Azure Administrator Associate]()
+- [6- Microsoft Azure Security Engineer Associate]()
+- [7- Microsoft DevOps Engineer Expert]()
+- [8- Microsoft Azure Developer Associate]()
+- [9- Microsoft Security, Compliance, and Identity Fundamentals]()
+- [10- Terraform Associate ]()
+- [11- Microsoft Azure Solutions Architect Expert]()
+- [12- Microsoft Azure Network Engineer Associate ]()
+- [13- Microsoft Security Operations Analyst Associate]()
+- [14- AWS Certified Cloud Practitioner ]()
