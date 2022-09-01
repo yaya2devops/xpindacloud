@@ -20,7 +20,7 @@
 <img src="AZJOURNEY.png">
 
 # Microsoft Certified Trainer 
-<img src="" alt="i'll look for it in the phone">
+<img src="ondawall.jpg" alt="i'll look for it in the phone">
 
 # MCT - Connect
 <img src="Connect.png">
