@@ -1,7 +1,8 @@
 # Experiences
 <img src="Exp.png">
 
-## Acquired Exams
+## 👉[Certifications](Certifications!#readme)
+### Aquired Exams
 > Sort by timeline.
 - [1- Microsoft Azure Fundamentals](/Certifications!/1°AZ-900.pdf)
 - [2- Microsoft Azure Data Fundamentals ](/Certifications!/2°DP-900.pdf)
@@ -19,8 +20,6 @@
 - [14- Microsoft Security Operations Analyst Associate](/Certifications!/13°SC-200.pdf)
 - [15- AWS Certified Cloud Practitioner ](/Certifications!/14°%20AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
-Jump to the [REPO](Certifications!#readme)
+## 👉[Cloud Notes](Notes#readme)
+## 👉[GitHub Grad](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
 
-# Redirection
-## 👉[GitHubGraduation2022](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
-## 👉[My_Azure_Dashboard](https://github.com/Y4HYA4/My_Azure_Dashboard/blob/main/README.md)
