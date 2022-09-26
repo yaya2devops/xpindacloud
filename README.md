@@ -1,4 +1,6 @@
 # Experiences
+This repository will highlight some of my cloud accomplishments and the assets I've earned.
+
 <img src="Exp.png">
 
 ## 👉[Certifications](Certifications!#readme)
