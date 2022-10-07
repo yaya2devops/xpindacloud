@@ -1,0 +1,70 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+
+% Diff�rentes options pour la classe :
+% - taille de la fonte    : 10pt, 11pt, 12pt
+% - recto ou recto-verso    : oneside, twoside
+% - stade de d�veloppement    : draft, final
+
+
+\usepackage[English]{babel}
+\usepackage[latin1]{inputenc}    % Pour utiliser les lettres accentu�es
+
+%\usepackage[utf8]{inputenc}%           gestion des accents (source)
+\usepackage[T1]{fontenc}%              gestion des accents (PDF)
+%\usepackage[francais,english]{babel}%          gestion du fran�ais
+\usepackage{textcomp}%                 caract�res additionnels
+
+\usepackage[pdftex]{graphicx}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage[french]{varioref}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage{amsmath}
+\usepackage{ifpdf} % part of the hyperref bundle
+\usepackage{array}
+
+
+%\usepackage{abstract}
+
+
+ % set fonts for nicer pdf view
+ \IfFileExists{lmodern.sty}{\usepackage{lmodern}}{}
+
+
+\pagestyle{fancy}
+\fancyhead[L]{}
+\fancyhead[C]{}
+\fancyhead[R]{\nouppercase\rightmark}
+
+
+\fancyfoot[L]{}
+\fancyfoot[C]{}
+\fancyfoot[R]{\textbf{\thepage}}
+
+% D�but du document
+\begin{document}
+
+\include{garde_fin}
+\include{garde_sign_fin}
+\newpage
+\pagenumbering{roman}
+\include{ACK}
+\include{Rapport ISTIC/abstract}
+\tableofcontents    % Table des mati�res       % Liste des tableaux
+\pagenumbering{arabic}
+\include{timesheet}
+\include{Introduction}
+\include{Chapitre1}
+\include{Chapitre2}
+\include{Chapitre3}
+\include{Chapitre4}
+\include{Conclusion}
+
+
+
+
+% Fin du document
+\end{document}
