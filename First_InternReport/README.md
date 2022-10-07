@@ -1,6 +1,6 @@
 #  Internship Report at Linedata
 Hello, please find my report written in Latex of my internship at Linedata below.
-- [PDF version](PFA_YAYA.pdf)
+- [PDF version](pfa_yaya.pdf)
 
 
 ## Template
