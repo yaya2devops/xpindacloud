@@ -3,7 +3,7 @@ This repository will highlight some of my cloud accomplishments and the assets I
 
 <img src="Exp.png">
 
-## 👉[Certifications](Certifications!#readme)
+## ▶ [Certifications](Certifications!#readme)
 ### Aquired Exams
 > Sort by timeline.
 - [1- Microsoft Azure Fundamentals](/Certifications!/1°AZ-900.pdf)
@@ -22,7 +22,7 @@ This repository will highlight some of my cloud accomplishments and the assets I
 - [14- Microsoft Security Operations Analyst Associate](/Certifications!/13°SC-200.pdf)
 - [15- AWS Certified Cloud Practitioner ](/Certifications!/14°%20AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
-## 👉[Linedata Internship Report](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/First_InternReport#internship-report-at-linedata)
-## 👉[Cloud Notes](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/Notes#readme)
-## 👉[I am a GitHub Grad!](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
+## ▶ [Linedata Internship Report](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/First_InternReport#internship-report-at-linedata)
+## ▶ [Cloud Notes](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/Notes#readme)
+## ▶ [I am a GitHub Grad!](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
 
