@@ -18,4 +18,5 @@ The main file is where you should place your first focus: page-order & calling e
 ├── Your inspiration.tex
 ├── assets
     ├── Pictures required, diagrams etc..
-
+``` 
+I took advantage of the opportunity to write my [CV](/assets/CurriculumVitae.pdf) in Latex as well; A NEAT RESULT !
