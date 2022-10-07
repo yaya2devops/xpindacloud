@@ -9,7 +9,7 @@ This is actually a good latex template to consider. LaTeX is a document preparat
 - Consider [this file](aide-memoire_Latex.pdf) to learn about its syntax
 
 
-The main file is where you should place your first focus page orders and call external tex files.
+The main file is where you should place your first focus: page-order & calling external tex files.
 
 ``` 
 .LATEX_PROJECT
