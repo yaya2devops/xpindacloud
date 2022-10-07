@@ -24,5 +24,5 @@ This repository will highlight some of my cloud accomplishments and the assets I
 
 ## 👉[Linedata Internship Report](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/First_InternReport#internship-report-at-linedata)
 ## 👉[Cloud Notes](Notes#readme)
-## 👉[GitHub Grad](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
+## 👉[I am a GitHub Grad!](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
 
