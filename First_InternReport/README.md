@@ -1,7 +1,7 @@
 #  Internship Report at Linedata
 Hello, please find my report written in Latex of my internship at Linedata below.
 - [PDF version](pfa_yaya.pdf)
-
+> Please do not use the provided as a reference to a case study. I did it for one reason; to become acquainted with book production. Why not write a book one day?
 
 ## Template
 This is actually a good latex template to consider. LaTeX is a document preparation software system widely employed in creating books and I realized why.
