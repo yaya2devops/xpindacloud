@@ -3,6 +3,7 @@
 - [Azure Theme](https://www.yahya-abulhaj.dev/)
 - [GitHub Theme](https://www.itzyahya.tech/)
 - [Terminal Theme ](https://y4hya4.github.io/portfolioTerminal-V2/)
+- [Cloud Home Theme ](https://home.itzyahya.tech/)
 - [Socials](https://portfolio-v3-y4hya4.vercel.app/)
 
 
