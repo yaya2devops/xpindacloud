@@ -1,0 +1,291 @@
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+%	The MIT License (MIT)
+%
+%	Copyright (c) 2022 Yahya Abulhaj
+%
+%	Permission is hereby granted, free of charge, to any person obtaining a copy
+%	of this software and associated documentation files (the "Software"), to deal
+%	in the Software without restriction, including without limitation the rights
+%	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+%	copies of the Software, and to permit persons to whom the Software is
+%	furnished to do so, subject to the following conditions:
+%	
+%	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+%	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+%	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+%	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+%	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+%	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+%	THE SOFTWARE.
+%	
+%
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT DEFINITION
+%----------------------------------------------------------------------------------------
+
+\documentclass[a4paper,12pt]{article}
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES
+%----------------------------------------------------------------------------------------
+\usepackage{url}
+\usepackage{parskip} 	
+
+%other packages for formatting
+\RequirePackage{color}
+\RequirePackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[scale=0.9]{geometry}
+
+%tabularx environment
+\usepackage{tabularx}
+
+%for lists within experience section
+\usepackage{enumitem}
+
+% centered version of 'X' col. type
+\newcolumntype{C}{>{\centering\arraybackslash}X} 
+
+%to prevent spillover of tabular into next pages
+\usepackage{supertabular}
+\usepackage{tabularx}
+\newlength{\fullcollw}
+\setlength{\fullcollw}{0.47\textwidth}
+
+%custom \section
+\usepackage{titlesec}				
+\usepackage{multicol}
+\usepackage{multirow}
+
+%CV Sections inspired by: 
+%http://stefano.italians.nl/archives/26
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{10pt}{10pt}
+
+%for publications
+\usepackage[style=authoryear,sorting=ynt, maxbibnames=2]{biblatex}
+
+%Setup hyperref package, and colours for links
+\usepackage[unicode, draft=false]{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
+\addbibresource{citations.bib}
+\setlength\bibitemsep{1em}
+
+%for social icons
+\usepackage{fontawesome5}
+
+%debug page outer frames
+%\usepackage{showframe}
+
+%----------------------------------------------------------------------------------------
+%	BEGIN DOCUMENT
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+% non-numbered pages
+\pagestyle{empty} 
+
+%----------------------------------------------------------------------------------------
+%	TITLE
+%----------------------------------------------------------------------------------------
+
+% \begin{tabularx}{\linewidth}{ @{}X X@{} }
+% \huge{Your Name}\vspace{2pt} & \hfill \emoji{incoming-envelope} email@email.com \\
+% \raisebox{-0.05\height}\faGithub\ username \ | \
+% \raisebox{-0.00\height}\faLinkedin\ username \ | \ \raisebox{-0.05\height}\faGlobe \ mysite.com  & \hfill \emoji{calling} number
+% \end{tabularx}
+
+\begin{tabularx}{\linewidth}{@{} C @{}}
+\Huge{Yahya Abulhaj} \\[8pt]
+\href{https://github.com/Y4HYA4}{\raisebox{-0.05\height}\faGithub\ Y4HYA4} \ $|$ \ 
+\href{https://www.linkedin.com/in/yahya-abulhaj/}{\raisebox{-0.05\height}\faLinkedin\ LinkedIn} \ $|$ \ 
+\href{https://www.yahya-abulhaj.Dev}{\raisebox{-0.05\height}\faGlobe \ Portfolio} \ $|$ \ 
+\href{mailto:yahya@itzyahya.tech}{\raisebox{-0.05\height}\faEnvelope \ Email} \ $|$ \ 
+\href{tel:+216 28499669}{\raisebox{-0.05\height}\faMobile \ +216 28499669} \\
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+% EXPERIENCE SECTIONS
+%----------------------------------------------------------------------------------------
+
+%Interests/ Keywords/ Summary
+\section{Summary}
+DevOps Consultant with approximately 2 years in the cloud. Passionate about DevOps-related tools and technologies. A daily learner looking for continuous improvement. I work diligently, am focused, and have an excellent eye for detail. I make every effort to think in an agile manner.
+To enhance my professional skills in a dynamic and fast-paced environment, I'm 12 times Microsoft Certified
+seeking a DevOps/Cloud mission to grow my passion as an IT professional. 
+
+%Skills
+\section{Skills}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{Computer Skills} & \hfill  \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{ 
+\begin{minipage}[t]{\linewidth}
+
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em, itemsep=3pt]
+        \item[•] Awareness of DevOps and Agile principles.
+        \item[•] Proficiency with Cloud Technologies: Microsoft Azure, AWS and GCP.
+        \item[•] Practical knowledge in automating infrastructure with Terraform.
+        \item[•] Familiar with Operating System virtualization (VMs), Containerization:Docker, K8s, Helm, Linux/UNIX./Git.
+        \item[•] CI/CD tools: Jenkins/TeamCity/Gitlab/Harness/Prometheus.
+        \item[•] Acquainted with C/C++/C#/Python/Bash.
+        \item[•] Knowledge of web development technologies HTML/CSS, JavaScript, Nodejs, Gatsby and React.
+    \end{itemize}
+    \end{minipage}
+}
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{Organizational Skills} & \hfill  \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{ 
+\begin{minipage}[t]{\linewidth}
+
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em, itemsep=3pt]
+        \item[•] Setting and adhering to deadlines to ensure the smooth operation of daily operations.
+        \item[•] Giving a substantial focus to communication, collaboration, and teamwork as well as adding value.
+        \item[•] Good at upholding confidentiality to support client privacy.
+        \item[•] Devoted and disciplined to the assigned missions.
+    \end{itemize}
+    \end{minipage}
+}
+\end{tabularx}
+
+%Experience
+\section{Work Experience}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{DevOps Consultant} & \hfill July 2022 - present \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{ 
+\begin{minipage}[t]{\linewidth}
+
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em, itemsep=3pt]
+        \item[•] Perform DevOps/Cloud Tasks: Azure DevOps, IaaC, Monitoring /Cleanup AAD and Cloud Ops.
+        \item[•] Design and implement security Architecture, Sentinel integration w/ Saas apps, Logs and queries.
+        \item[•] Respond to incidents, conduct investigations, and troubleshoot problems on daily basis.
+    \end{itemize}
+    \end{minipage}
+}
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{Summer Intern} & \hfill June 2022 - July 2022 \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{ 
+\begin{minipage}[t]{\linewidth}
+\textbf{Topic:} Cloud Migration Research of Automation Framework - QA Office.
+
+\textbf{Project:} Net Asset Value Solution, \textbf{Linedata Navquest}.
+
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em, itemsep=3pt]
+        \item[•] Contribution to the product's total of seven internal repositories: Docs, Scripts, Code, Configs.
+        \item[•] Managing the continuous integration process: Teamcity, GitHub, Docker, Powershell and terraform.
+        \item[•] In addition to using Harness, Ansible, and AWS to test the CD along with spending time documenting.
+    \end{itemize}
+    \end{minipage}
+}
+\end{tabularx}
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{Microsoft Certified Trainer} & \hfill March 2022 - Present \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{ 
+\begin{minipage}[t]{\linewidth}
+Part of a great community on a global scale in order to exchange knowledge and advance.
+
+    \begin{itemize}[nosep,after=\strut, leftmargin=1em, itemsep=3pt]
+        \item[•] Taught technical classes for Microsoft.
+        \item[•] Suggested making the necessary program improvements.
+    \end{itemize}
+    \end{minipage}
+}
+\end{tabularx}
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+\section{Education}
+\begin{tabularx}{\linewidth}{@{}l X@{}}	
+
+Bachelors in Computer Engineering at \textbf{ISTIC University} & \hfill Sept 2020 - Jan 2023  \\ 
+\end{tabularx}
+
+
+%Certifications
+\section{Certifications}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{Microsoft} & \hfill  \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{ 
+\begin{minipage}[t]{\linewidth}
+
+  \begin{itemize}[nosep,after=\strut, leftmargin=1em, itemsep=3pt]
+        \item[•] Microsoft Certified: Azure Fundamentals \hfill {July 20, 2021 }
+        \item[•] Microsoft Certified: Azure Data Fundamentals \hfill {August 10, 2021}
+        \item[•] Microsoft Certified: Azure AI Fundamentals \hfill {August 16, 2021 }
+        \item[•] Microsoft Certified: Security, Compliance, and Identity Fundamentals \hfill {March 20, 2022 }
+        \item[•] Microsoft Certified: PowerPlatform Fundamentals \hfill {August 31, 2021 }
+        \item[•] Microsoft Certified: Azure Administrator Associate \hfill {October 02, 2021}
+        \item[•] Microsoft Certified: Azure Developer Associate \hfill {January 22, 2022 }
+        \item[•] Microsoft Certified: Azure Security Engineer Associate \hfill {December 05, 2021}
+        \item[•] Microsoft Certified: Security Operations Analyst Associate \hfill { July 31, 2022 }
+        \item[•] Microsoft Certified: Azure Network Engineer Associate \hfill { June 29, 2022 }
+        \item[•] Microsoft Certified: DevOps Engineer Expert \hfill {December 26, 2021 }
+        \item[•] Microsoft Certified: Azure Solutions Architect Expert \hfill { April 10, 2022 }
+    \end{itemize}
+    \end{minipage}
+}  \\
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{AWS} & \hfill \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{ 
+\begin{minipage}[t]{\linewidth}
+  \begin{itemize}[nosep,after=\strut, leftmargin=1em, itemsep=3pt]
+        \item[•] AWS Certified: Cloud Practitioner \hfill {    August 20, 2022 }
+
+    \end{itemize}
+    \end{minipage} }  
+\end{tabularx}
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{HashiCorp} & \hfill \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{ 
+\begin{minipage}[t]{\linewidth}
+  \begin{itemize}[nosep,after=\strut, leftmargin=1em, itemsep=3pt]
+        \item[•] HashiCorp Certified: Terraform Associate \hfill {March 26, 2022 }
+    \end{itemize}
+    \end{minipage}
+} 
+\end{tabularx}
+%----------------------------------------------------------------------------------------
+%Projects
+%----------------------------------------------------------------------------------------
+\section{Projects}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{CloudBoost | Azure Fundamentals materials} & \hfill \href{https://cloud.Itzyahya.tech}{Link} \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{ This is my way of giving back to the community by documenting 5 cloud certifications and making the material available for use. }  \\
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{Cloud Blogger | Hashnode} & \hfill \href{https://blog.yahya-abulhaj.dev}{Link} \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{One of the best choices I've ever made. Writing has transformed me into the person I aspired to be many years ago. My intention here is to blog about whatever I'm going through so that I have something to look back on, and help those considering a career in the cloud.}  \\
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{Bachelors in Computer Engineering | Documentation} & \hfill \href{https://istic.computer-engineering.tech/#/}{Link} \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{Being a student at a public university is not straightforward. Things are not easily accessible, and you must inquire repeatedly to determine your needs. On my way to include all of the resources that I gathered, so having access is not something a student should think about, but rather putting in the time and learning.}  \\
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{My Portfolio | Combination of cloud services} & \hfill \href{https://github.com/Y4HYA4/Azure_Cloud_Resume_Challenge#readme}{Link} \\[3.75pt]
+\multicolumn{2}{@{}X@{}}{ This one was a lot of fun, but it also provided me with valuable experience combining cloud services. }  \\
+\end{tabularx}
+
+\textbf{Others} &  \normalsize{DevOps, Notes, Weather, Web Games, Covid...}  & \hfill \href{https://github.com/Y4HYA4?tab=repositories}{Link} \\[3.75pt]
+
+
+
+
+
+\vfill
+
+\end{document}
