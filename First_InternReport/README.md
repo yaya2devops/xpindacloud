@@ -2,9 +2,10 @@
 Hello, please find my report written in Latex of my internship at Linedata below. 
 <br>
 
-![Homepage](assets/reportMAIN.jpg)
+<img src="assets/valide.jpg" width="450">
 
 > I did it for one reason; to become acquainted with book production. Why not write a book one day?
+
 
 ## Template
 This is actually a good latex template to consider. LaTeX is a document preparation software system widely employed in creating books and I realized why.
