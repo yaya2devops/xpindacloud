@@ -12,6 +12,7 @@
 - [CloudBlog](https://blog.yahya-abulhaj.dev/)
 - [CloudBoost](https://cloud.itzyahya.tech/)
 - [TeamBlog](https://dev.ideaops.tech/)
+- [fortuitous NOTES](https://hackmd.io/@Yahya4TECH)
 
 ## Projects
 - [College Docs](https://istic.computer-engineering.tech/)
