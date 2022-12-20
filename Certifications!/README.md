@@ -20,6 +20,7 @@
 - [14- Microsoft Security Operations Analyst Associate](13°SC-200.pdf)
 - [15- AWS Certified Cloud Practitioner ](14°%20AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 - [16- AWS Certified Developer Associate ](16-AWSCertifiedDeveloper-Associatecertificate.pdf)
+- 17- Microsoft 365 Certified: Teams Voice Engineer
 
 # Microsoft Certified Trainer 
 <img src="ondawall.jpg" alt="i'll look for it in the phone">
