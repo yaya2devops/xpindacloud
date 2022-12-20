@@ -1,8 +1,17 @@
 # Azure Journey
+
+I am filled with excitement and determination. I have dedicated myself to learning as much as possible about Azure and its various technologies, and have been fortunate enough to earn 13 Microsoft certifications. Along the way, I have encountered many challenges and faced numerous obstacles, but I have always persevered and worked hard to overcome them. 
+
+
+I am grateful for all of the knowledge and skills that I have earned, and I am eager to continue learning and growing as a professional.
+
 <img src="AZJOURNEY.png">
 
 
 # Acquired Exams
+My journey has been filled with hard work and dedication, but it has also been incredibly rewarding.
+
+
 > Sort by timeline.
 - [1- Microsoft Azure Fundamentals](1°AZ-900.pdf)
 - [2- Microsoft Azure Data Fundamentals ](2°DP-900.pdf)
@@ -21,6 +30,13 @@
 - [15- AWS Certified Cloud Practitioner ](14°%20AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 - [16- AWS Certified Developer Associate ](16-AWSCertifiedDeveloper-Associatecertificate.pdf)
 - 17- Microsoft 365 Certified: Teams Voice Engineer
+
+# Touchpoints
+Even after the great Microsoft marathon, **my thirst for knowledge** and desire to stay up-to-date on the latest technologies has not waned. In fact, I am now turning my focus to obtaining certifications in Amazon Web Services (AWS) and cloud native technologies.
+
+I believe that having a diverse skill set is essential in today's fast-paced and constantly evolving tech industry, and I see earning AWS and cloud native certifications as an important step in my professional development. Not only will these certifications allow me to expand my expertise and broaden my horizons, but they will also give me a competitive edge in the job market.
+
+Highly excited to dive into more Cloud and learn as much as I can about these powerful tools and platforms. I am confident that the skills and knowledge I gain from these certifications will be invaluable in my career and will help me to better serve my clients and customers.
 
 # Microsoft Certified Trainer 
 <img src="ondawall.jpg" alt="i'll look for it in the phone">
