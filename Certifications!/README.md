@@ -38,6 +38,8 @@ I believe that having a diverse skill set is essential in today's fast-paced and
 
 Highly excited to dive into more Cloud and learn as much as I can about these powerful tools and platforms. I am confident that the skills and knowledge I gain from these certifications will be invaluable in my career and will help me to better serve my clients and customers.
 
+As you keep scrolling below, you will find more assets that i love to show 'em off!
+
 # Microsoft Certified Trainer 
 <img src="ondawall.jpg" alt="i'll look for it in the phone">
 
