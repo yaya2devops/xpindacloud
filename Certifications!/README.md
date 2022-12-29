@@ -5,7 +5,7 @@ I am filled with excitement and determination. I have dedicated myself to learni
 
 I am grateful for all of the knowledge and skills that I have earned, and I am eager to continue learning and growing as a professional.
 
-<img src="AZJOURNEY.png">
+<img src="updateJourney.png">
 
 
 # Acquired Exams
@@ -36,9 +36,9 @@ Even after the great Microsoft marathon, **my thirst for knowledge** and desire 
 
 I believe that having a diverse skill set is essential in today's fast-paced and constantly evolving tech industry, and I see earning AWS and cloud native certifications as an important step in my professional development. Not only will these certifications allow me to expand my expertise and broaden my horizons, but they will also give me a competitive edge in the job market.
 
-Highly excited to dive into more Cloud and learn as much as I can about these powerful tools and platforms. I am confident that the skills and knowledge I gain from these certifications will be invaluable in my career and will help me to better serve my clients and customers.
+Highly excited to dive into more Cloud and learn as much as I can about these powerful tools and platforms. 
 
-As you keep scrolling below, you will find more assets that i love to show 'em off!
+I am confident that the skills and knowledge I'll gain further will be invaluable in my career and will help me to better serve my clients and customers. As you keep scrolling below, you will find more assets that i love to show 'em off!
 
 # Microsoft Certified Trainer 
 <img src="ondawall.jpg" alt="i'll look for it in the phone">
