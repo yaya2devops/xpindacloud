@@ -46,4 +46,4 @@ I am confident that the skills and knowledge I'll gain further will be invaluabl
 # MCT - Connect
 <img src="Connect.png">
 
-> Best regards,
+> Look into my personal [Azure account](https://az-dash.yahya-abulhaj.dev/)
