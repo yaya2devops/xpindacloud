@@ -32,7 +32,7 @@ First and foremost, I take certifications because they allow me to demonstrate m
 In addition to helping me stand out in the job market, certifications have also helped me to stay up-to-date on the latest trends and technologies. In the fast-paced world of technology, it is important to constantly learn and adapt, and certifications provide a structured way for me to do so.
 
 
-**C**ertifications are not just about advancing my career. They have also helped me to grow as a professional and especially as a person. 
+**C**ertifications are not just about advancing my career. They have also helped me to grow as a person. 
 - Earning a certification requires hard work, dedication, and a willingness to constantly learn and challenge myself. 
 
 These traits are not only valuable in my career, but in all aspects of my life.
