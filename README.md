@@ -31,16 +31,16 @@ First and foremost, I take certifications because they allow me to demonstrate m
 
 In addition to helping me stand out in the job market, certifications have also helped me to stay up-to-date on the latest trends and technologies. In the fast-paced world of technology, it is important to constantly learn and adapt, and certifications provide a structured way for me to do so.
 
-
 **C**ertifications are not just about advancing my career. They have also helped me to grow as a person. 
 - Earning a certification requires hard work, dedication, and a willingness to constantly learn and challenge myself. 
 
 These traits are not only valuable in my career, but in all aspects of my life.
  
 ## Very Important Point
-The only1 who will tell you that certs don't matter has either 1,2 certs or he doesn't have any at all and is trying to show that his amazing experience is the only important factor. We value experiences, but consider the adage: are you having years of experiences or repeating the same year over and over?
+Those who claim that certifications do not matter either possess few or no certifications themselves and are attempting to emphasize the importance of their personal experience. While we certainly value experiences, it is also important to recognize that obtaining new certifications can broaden one's skillset and facilitate personal and professional growth. 
+- Consider the adage: are you having years of experiences or repeating the same year over and over?
 
-<br>Certs are a form of self-challenge and self-growth and my advice is to ignore most people because they do not have your best interests at heart. HUSTLE!
+Certs are a form of self-challenge and self-growth and my advice is to ignore most people because they do not have your best interests at heart. HUSTLE!
 
 ## ▶ [Cloud Notes](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/Notes#readme)
 ## ▶ [GitHub Grad](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
