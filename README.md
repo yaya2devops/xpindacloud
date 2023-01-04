@@ -37,8 +37,10 @@ In addition to helping me stand out in the job market, certifications have also 
 
 These traits are not only valuable in my career, but in all aspects of my life.
  
-*Very Important Point:* The only1 who will tell you that certs don't matter has either 1,2 certs or he doesn't have any at all and is trying to show that his amazing experience is the only important factor. We value experiences, but consider the adage: are you having years of experiences or repeating the same year over and over?
-- Certs are a form of self-challenge and self-growth and my advice is to ignore most people because they do not have your best interests at heart. HUSTLE!
+## Very Important Point
+The only1 who will tell you that certs don't matter has either 1,2 certs or he doesn't have any at all and is trying to show that his amazing experience is the only important factor. We value experiences, but consider the adage: are you having years of experiences or repeating the same year over and over?
+
+<br>Certs are a form of self-challenge and self-growth and my advice is to ignore most people because they do not have your best interests at heart. HUSTLE!
 
 ## ▶ [Cloud Notes](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/Notes#readme)
 ## ▶ [GitHub Grad](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
