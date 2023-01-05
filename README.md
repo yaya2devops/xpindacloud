@@ -81,4 +81,6 @@ Check [the SWAG](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/READM
 <summary>My Open-Source Contribution Stats</summary>
 
 <img src="contributions (1).png">
+ 
+<img src="LinkedinGitHub.png>
 </detaiml>
