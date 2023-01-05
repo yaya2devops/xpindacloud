@@ -71,3 +71,10 @@ I have had the opportunity to delve deep into the platform and learn everything 
 
 Appreciate what GitHub has done for me and my career! I truly believe it is an invaluable platform for anyone interested in software development. Get in.
 </details>
+
+
+<details> 
+<summary>My Open-Source Contribution Stats</summary>
+
+<img src="contributions (1).png">
+</detaiml>
