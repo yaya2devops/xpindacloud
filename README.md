@@ -30,9 +30,10 @@ Main reason of doing so, I hope to inspire and motivate others to pursue their o
 <summary> Why I take Certifications? </summary>
 <br>
  I am excited to share with you why I take certifications and the value they have brought to my career and personal growth.
-
+<br><br>
 First and foremost, I take certifications because they allow me to demonstrate my skills and expertise in a particular technology or subject matter. In today's competitive job market, having certifications can set you apart from other candidates and show potential employers that you have the knowledge and dedication required to succeed in your field.
-
+<br>
+<br>
 In addition to helping me stand out in the job market, certifications have also helped me to stay up-to-date on the latest trends and technologies. In the fast-paced world of technology, it is important to constantly learn and adapt, and certifications provide a structured way for me to do so.
 
 **C**ertifications are not just about advancing my career. They have also helped me to grow as a person. 
