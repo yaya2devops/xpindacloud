@@ -1,3 +1,14 @@
+# My Open Source Initiatives
+
+
+
+## Guides 
+- [Linux Guide](https://linux.yahya-abulhaj.dev/)
+- [Microsoft Sentinel](https://sentinel.yahya-abulhaj.dev/)
+- [Guide to College Degree](https://istic.computer-engineering.tech/#/)
+
+
+
 ## Potfolios
 
 - [Azure Theme](https://www.yahya-abulhaj.dev/)
@@ -12,10 +23,10 @@
 - [CloudBlog](https://blog.yahya-abulhaj.dev/)
 - [CloudBoost](https://cloud.itzyahya.tech/)
 - [TeamBlog](https://dev.ideaops.tech/)
-- [fortuitous NOTES](https://hackmd.io/@Yahya4TECH)
+- [NOTES](https://hackmd.io/@Yahya4TECH)
+
 
 ## Projects
-- [College Docs](https://istic.computer-engineering.tech/)
 - [Covid](https://covid.yahya-abulhaj.dev/)
 - [Weather](https://y4hya4.github.io/weather__/)
 - [DevOps Quotes](https://devops.yahya-abulhaj.dev/)
