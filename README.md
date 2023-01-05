@@ -81,7 +81,7 @@ Check [the SWAG](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/READM
 <summary>My Open-Source Contribution Stats</summary>
 <br>
 
-Starting in 2023:
+How I'm Starting 2023:
 <br>
 
 <img src="LinkedinGitHub.png">
