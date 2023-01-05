@@ -29,7 +29,7 @@ My journey has been filled with hard work and dedication, but it has also been i
 - [14- Microsoft Security Operations Analyst Associate](13°SC-200.pdf)
 - [15- AWS Certified Cloud Practitioner ](14°%20AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 - [16- AWS Certified Developer Associate ](16-AWSCertifiedDeveloper-Associatecertificate.pdf)
-- [17- Microsoft 365 Certified: Teams Voice Engineer](prerequisiteREQUIRED-HopeYouGetIt)
+- [17- Microsoft 365 Certified: Teams Voice Engineer](https://www.credly.com/badges/5286d46b-9e42-4cc3-8fbb-4329b8d813f3)
 
 # Touchpoints
 Even after the great Microsoft marathon, **my thirst for knowledge** and desire to stay up-to-date on the latest technologies has not waned. In fact, I am now turning my focus to obtaining certifications in Amazon Web Services (AWS) and cloud native technologies.
