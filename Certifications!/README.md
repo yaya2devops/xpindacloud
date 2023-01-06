@@ -2,34 +2,8 @@
 
 I am grateful for all of the knowledge and skills that I have earned, and I am eager to continue learning and growing as a professional. My journey has been filled with hard work and dedication, but it has also been incredibly rewarding.
 
-
-<details> <summary> <b>Microsoft Azure Journey³ </b></summary>
+<details> <summary> <b>Acquired Exams</b>  </summary>
 <br>
-
-I am filled with excitement and determination. I have dedicated myself to learning as much as possible about Azure and its various technologies, and have been fortunate enough to earn 13 Microsoft certifications. Along the way, I have encountered many challenges and faced numerous obstacles, but I have always persevered and worked hard to overcome them. 
-
-<img src="updateJourney.png">
-<br>
-<br>
-<details> <summary> <b>Microsoft Certified Trainer²</b>  </summary>
-
-<img src="ondawall.jpg" alt="i'll look for it in the phone">
-</details>
-
-<details> <summary><b> MCT - Connect¹ </b> </summary>
-
-<img src="Connect.png">
-  
-> Look into my personal [Azure account](https://az-dash.yahya-abulhaj.dev/)
-
-</details>
-
-  
-  
-</details>
-
-# Acquired Exams
-
 
 > Sort by timeline.
 - [1- Microsoft Azure Fundamentals](1°AZ-900.pdf)
@@ -61,4 +35,36 @@ Highly excited to dive into more Cloud and learn as much as I can about these po
 
 I am confident that the skills and knowledge I'll gain further will be invaluable in my career and will help me to better serve the world.
 </details>
+
+
+</details>
+
+<details> <summary> <b>Microsoft Azure Journey³ </b></summary>
+<br>
+
+I am filled with excitement and determination. I have dedicated myself to learning as much as possible about Azure and its various technologies, and have been fortunate enough to earn 13 Microsoft certifications. Along the way, I have encountered many challenges and faced numerous obstacles, but I have always persevered and worked hard to overcome them.
+
+<details> <summary> The Road </summary>
+<img src="updateJourney.png">
+</details>
+
+<details> <summary>Microsoft Certified Trainer²  </summary>
+
+<img src="ondawall.jpg" alt="i'll look for it in the phone">
+</details>
+
+<details> <summary> MCT - Connect¹ </summary>
+
+<img src="Connect.png">
+  
+> Get an [Azure dashboard](https://az-dash.yahya-abulhaj.dev/) like me!
+
+</details>
+
+  
+  
+</details>
+
+
+
 
