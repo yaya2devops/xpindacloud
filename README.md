@@ -3,7 +3,7 @@ This repository is a showcase of my cloud accomplishments and the assets I have 
 
 <img src="cover.png">
 
-Main reason of doing so, I hope to inspire and motivate others to pursue their own cloud journey and to strive for excellence in their careers.
+**Main reason of doing so**, I hope to **inspire** and **motivate** others to pursue their own cloud journey and to strive for excellence in their careers.
 
 
 ## ▶ [Certifications](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/Certifications!#readme)
