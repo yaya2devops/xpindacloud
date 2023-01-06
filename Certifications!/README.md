@@ -19,9 +19,13 @@ I am filled with excitement and determination. I have dedicated myself to learni
 <details> <summary><b> MCT - Connect¹ </b> </summary>
 
 <img src="Connect.png">
+  
+> Look into my personal [Azure account](https://az-dash.yahya-abulhaj.dev/)
 
 </details>
 
+  
+  
 </details>
 
 # Acquired Exams
@@ -58,4 +62,3 @@ Highly excited to dive into more Cloud and learn as much as I can about these po
 I am confident that the skills and knowledge I'll gain further will be invaluable in my career and will help me to better serve the world.
 </details>
 
-> Look into my personal [Azure account](https://az-dash.yahya-abulhaj.dev/)
