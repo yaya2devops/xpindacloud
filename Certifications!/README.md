@@ -1,15 +1,30 @@
-# Azure Journey
+# Cloud Computing Journey
+
+I am grateful for all of the knowledge and skills that I have earned, and I am eager to continue learning and growing as a professional. My journey has been filled with hard work and dedication, but it has also been incredibly rewarding.
+
+
+<details> <summary> <b>Microsoft Azure Journey³ </b></summary>
+<br>
 
 I am filled with excitement and determination. I have dedicated myself to learning as much as possible about Azure and its various technologies, and have been fortunate enough to earn 13 Microsoft certifications. Along the way, I have encountered many challenges and faced numerous obstacles, but I have always persevered and worked hard to overcome them. 
 
-
-I am grateful for all of the knowledge and skills that I have earned, and I am eager to continue learning and growing as a professional.
-
 <img src="updateJourney.png">
+<br>
+<br>
+<details> <summary> <b>Microsoft Certified Trainer²</b>  </summary>
 
+<img src="ondawall.jpg" alt="i'll look for it in the phone">
+</details>
+
+<details> <summary><b> MCT - Connect¹ </b> </summary>
+
+<img src="Connect.png">
+
+</details>
+
+</details>
 
 # Acquired Exams
-My journey has been filled with hard work and dedication, but it has also been incredibly rewarding.
 
 
 > Sort by timeline.
@@ -31,19 +46,16 @@ My journey has been filled with hard work and dedication, but it has also been i
 - [16- AWS Certified Developer Associate ](16-AWSCertifiedDeveloper-Associatecertificate.pdf)
 - [17- Microsoft 365 Certified: Teams Voice Engineer](https://www.credly.com/badges/5286d46b-9e42-4cc3-8fbb-4329b8d813f3)
 
-# Touchpoints
-Even after the great Microsoft marathon, **my thirst for knowledge** and desire to stay up-to-date on the latest technologies has not waned. In fact, I am now turning my focus to obtaining certifications in Amazon Web Services (AWS) and cloud native technologies.
+<details> <summary> Points to consider in the near future </summary>
+<br>
 
-I believe that having a diverse skill set is essential in today's fast-paced and constantly evolving tech industry, and I see earning AWS and cloud native certifications as an important step in my professional development. Not only will these certifications allow me to expand my expertise and broaden my horizons, but they will also give me a competitive edge in the job market.
+Even after the great Microsoft marathon, my thirst for knowledge and desire to stay up-to-date with technology has not waned. In fact, I am now turning my focus to learn more about Amazon Web Services (AWS) and cloud native technologies.
+
+I believe that having a diverse skill set is essential in today's fast-paced and constantly evolving tech industry, and I see such experience is an important step in my professional development.
 
 Highly excited to dive into more Cloud and learn as much as I can about these powerful tools and platforms. 
 
-I am confident that the skills and knowledge I'll gain further will be invaluable in my career and will help me to better serve my clients and customers. As you keep scrolling below, you will find more assets that i love to show 'em off!
-
-# Microsoft Certified Trainer 
-<img src="ondawall.jpg" alt="i'll look for it in the phone">
-
-# MCT - Connect
-<img src="Connect.png">
+I am confident that the skills and knowledge I'll gain further will be invaluable in my career and will help me to better serve my clients and customers.
+</details>
 
 > Look into my personal [Azure account](https://az-dash.yahya-abulhaj.dev/)
