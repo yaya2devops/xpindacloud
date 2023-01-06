@@ -55,7 +55,7 @@ I believe that having a diverse skill set is essential in today's fast-paced and
 
 Highly excited to dive into more Cloud and learn as much as I can about these powerful tools and platforms. 
 
-I am confident that the skills and knowledge I'll gain further will be invaluable in my career and will help me to better serve my clients and customers.
+I am confident that the skills and knowledge I'll gain further will be invaluable in my career and will help me to better serve the world.
 </details>
 
 > Look into my personal [Azure account](https://az-dash.yahya-abulhaj.dev/)
