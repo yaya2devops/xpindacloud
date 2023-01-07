@@ -68,7 +68,7 @@ Continue to look on my [cloud Journey](https://github.com/Y4HYA4/ExperienceInClo
 <summary> I am a GitHub graduate - Class 2022 </summary>
 <br>
 
-I have had the opportunity to delve deep into the platform and learn everything it has to offer. From managing repositories and working with branches, to collaborating with others and contributing to open source projects, working with pipelines using Actins, GitHub has provided me with the tools and resources I need to succeed as a developer.
+I have had the opportunity to delve deep into the platform and learn everything it has to offer. From managing repositories and working with branches, to collaborating with others and contributing to open source projects, working with pipelines using Actoins, GitHub has provided me with the tools and resources I need to succeed as a developer.
 
 Appreciate what GitHub has done for me and my career! I truly believe it is an invaluable platform for anyone interested in software development. Get in.
 
