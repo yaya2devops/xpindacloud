@@ -63,6 +63,13 @@ Continue to look on my [cloud Journey](https://github.com/Y4HYA4/ExperienceInClo
  
 </details>
 
+<details>
+<summary>Certifications VS Hands-on Labs? </summar>
+
+<img src="why.png">
+
+</details>
+
 ## ▶ [Cloud Notes](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/Notes#readme)
 ## ▶ [GitHub Grad](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
 
