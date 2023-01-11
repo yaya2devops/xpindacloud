@@ -64,7 +64,7 @@ Continue to look on my [cloud Journey](https://github.com/Y4HYA4/ExperienceInClo
 </details>
 
 <details>
-<summary>Certifications VS Hands-on Labs? </summary>
+<summary>Certifications VS Hands-on? </summary>
 
 <img src="Certifications!/why.png">
 
