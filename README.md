@@ -98,6 +98,12 @@ How I'm Starting 2023:
 
 <br>
 <br>
+<details> 
+<summary>
+2022 GitHub Stats 
+</summary>
+GitHub Consistent since 21 April 2022 
 <img src="contributions (1).png">
- 
-</detaiml>
+
+</details>
+</details>
