@@ -26,6 +26,9 @@ This repository is a showcase of my cloud accomplishments and the assets I have 
 - [14- Microsoft Security Operations Analyst Associate](/Certifications!/13°SC-200.pdf)
 - [15- AWS Certified Cloud Practitioner ](/Certifications!/14°%20AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
  -->
+  <details>
+ <summary>FAQ </summary>
+ <br>
  
  <details>
 <summary> Why I take Certifications? </summary>
@@ -69,6 +72,7 @@ Continue to look on my [cloud Journey](https://github.com/Y4HYA4/ExperienceInClo
 <img src="Certifications!/why.png">
 
 </details>
+</details>
 
 ## ▶ [Cloud Notes](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/Notes#readme)
 ## ▶ [GitHub Grad](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
@@ -83,8 +87,7 @@ Appreciate what GitHub has done for me and my career! I truly believe it is an i
 
 <br> 
 
-Check [the SWAG](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md) i had from GitHub as a Grad
-</details>
+Check [the SWAG](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md) i had from GitHub as a Grad.
 
 
 <details> 
@@ -93,7 +96,6 @@ Check [the SWAG](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/READM
 
 How I'm Starting 2023:
 <br>
-
 <img src="LinkedinGitHub.png">
 
 <br>
@@ -105,5 +107,7 @@ How I'm Starting 2023:
 GitHub Consistent since 21 April 2022 
 <img src="contributions (1).png">
 
+</details>
+</details>
 </details>
 </details>
