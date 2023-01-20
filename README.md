@@ -28,7 +28,7 @@ This repository is a showcase of my cloud accomplishments and the assets I have 
  -->
   <details>
  <summary>FAQ </summary>
- <br>
+ <br> 
  
  <details>
 <summary> Why I take Certifications? </summary>
