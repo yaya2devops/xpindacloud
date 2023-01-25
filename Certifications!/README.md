@@ -31,7 +31,7 @@ Even after the great Microsoft marathon, my thirst for knowledge and desire to s
 
 I believe that having a diverse skill set is essential in today's fast-paced and constantly evolving tech industry, and I see such experience is an important step in my professional development.
 
-Highly excited to dive into more Cloud and learn as much as I can about these powerful tools and platforms. 
+Aditionnaly, as a full remote, I'm interested in Microsoft 365 and the security of the modern workplace. So I'm going to put a lot of effort and experience into that, and I'll have more Microsoft certifications to work on as well.
 
 I am confident that the skills and knowledge I'll gain further will be invaluable in my career and will help me to better serve the world.
 </details>
