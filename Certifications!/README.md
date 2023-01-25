@@ -23,7 +23,7 @@ I am grateful for all of the knowledge and skills that I have earned, and I am e
 - [15- AWS Certified Cloud Practitioner ](14°%20AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 - [16- AWS Certified Developer Associate ](16-AWSCertifiedDeveloper-Associatecertificate.pdf)
 - [17- Microsoft 365 Teams Voice Engineer Expert](https://www.credly.com/badges/5286d46b-9e42-4cc3-8fbb-4329b8d813f3)
-- [18- Google Cloud Platform Associate Cloud Engineer]()
+- [18- Google Cloud Platform Associate Cloud Engineer](https://www.credential.net/3d40ab2e-b94f-4ea0-974b-1f8687b74691)
 <details> <summary> Points to consider in the near future </summary>
 <br>
 
