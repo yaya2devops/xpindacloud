@@ -1,5 +1,5 @@
 # Experiences - Migration loading
-This repository is a showcase of my cloud accomplishments and the assets I have earned. It highlights my skills and expertise in the field of cloud computing and demonstrates my dedication to staying up-to-date on the latest trends and technologies.
+This repository is a showcase of my cloud accomplishments and the assets I have earned. It highlights my skills and expertise in the field of cloud computing and demonstrates my dedication to staying innovative and up-to-date with technologies.
 
 <img src="cover.png">
 
