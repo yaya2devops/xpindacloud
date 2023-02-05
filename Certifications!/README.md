@@ -14,7 +14,7 @@ I am grateful for all of the knowledge and skills that I have earned, and I am e
 - [6- Microsoft Azure Security Engineer Associate](6°AZ-500.pdf)
 - [7- Microsoft DevOps Engineer Expert](7°AZ-400.pdf)
 - [8- Microsoft Azure Developer Associate](8°AZ-204.pdf)
-- [9- Microsoft Certified Trainer](MCT.pdf)
+- [9- Microsoft Certified Trainer 2022-2023](MCT.pdf)
 - [10- Microsoft Security, Compliance, and Identity Fundamentals](9°SC-900.pdf)
 - [11- Terraform Associate ](10°Terraform.pdf)
 - [12- Microsoft Azure Solutions Architect Expert](11°AZ-305.pdf)
@@ -23,7 +23,9 @@ I am grateful for all of the knowledge and skills that I have earned, and I am e
 - [15- AWS Certified Cloud Practitioner ](14°%20AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 - [16- AWS Certified Developer Associate ](16-AWSCertifiedDeveloper-Associatecertificate.pdf)
 - [17- Microsoft 365 Teams Voice Engineer Expert](https://www.credly.com/badges/5286d46b-9e42-4cc3-8fbb-4329b8d813f3)
-- [18- Google Cloud Platform Associate Cloud Engineer](https://www.credential.net/3d40ab2e-b94f-4ea0-974b-1f8687b74691)
+- [18- Microsoft Certified Trainer 2023-2024](https://www.credly.com/badges/b09d66b0-499d-4f3c-857a-3e1f519fd0d5)
+- [19- Google Cloud Platform Associate Cloud Engineer](https://www.credential.net/3d40ab2e-b94f-4ea0-974b-1f8687b74691)
+- [20- Microsoft 365 Fundamentals](19-MS-900.pdf)
 <details> <summary> Points to consider in the near future </summary>
 <br>
 
