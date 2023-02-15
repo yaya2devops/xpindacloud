@@ -22,11 +22,11 @@ I am grateful for all of the knowledge and skills that I have earned, and I am e
 - [14- Microsoft Security Operations Analyst Associate](13°SC-200.pdf)
 - [15- AWS Certified Cloud Practitioner ](14°%20AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 - [16- AWS Certified Developer Associate ](16-AWSCertifiedDeveloper-Associatecertificate.pdf)
-- [17- Microsoft 365 Teams Voice Engineer Expert](https://www.credly.com/badges/5286d46b-9e42-4cc3-8fbb-4329b8d813f3)
+- [17- Microsoft 365 Teams Voice Engineer Expert](ms720.pdf)
 - [18- Microsoft Certified Trainer 2023-2024](https://www.credly.com/badges/b09d66b0-499d-4f3c-857a-3e1f519fd0d5)
 - [19- Google Cloud Platform Associate Cloud Engineer](https://www.credential.net/3d40ab2e-b94f-4ea0-974b-1f8687b74691)
 - [20- Microsoft 365 Fundamentals](19-MS-900.pdf)
-- [21- Microsoft 365 Teams Administrator Associate]()
+- [21- Microsoft 365 Teams Administrator Associate](ms700.pdf)
 <details> <summary> Points to consider in the near future </summary>
 <br>
 
