@@ -1,9 +1,13 @@
 # Experiences - Migration loading 
-This repository is a showcase of my cloud accomplishments and the assets I have earned. It highlights my skills and expertise in the field of cloud computing and demonstrates my dedication to staying innovative and up-to-date with technologies.
+This repository is a showcase of my cloud accomplishments and the assets I have earned. 
+
+
+It highlights my skills and expertise in the cloud and demonstrates my dedication to staying innovative and never stop learning.
+
+**Main reason of doing so**, I hope to **inspire** and **motivate** others to pursue their own cloud journey and to strive for excellence in their careers.
 
 <img src="cover.png">
 
-**Main reason of doing so**, I hope to **inspire** and **motivate** others to pursue their own cloud journey and to strive for excellence in their careers.
 
  
 ## ▶ Certifications
@@ -31,20 +35,28 @@ This repository is a showcase of my cloud accomplishments and the assets I have 
  <br> 
  
  <details>
-<summary> Why I take Certifications? </summary>
+<summary> Why I take too much exams? </summary>
 <br>
-Let me share with you why I take certifications and the value they have brought to my career and personal growth:
+Let me share with you why I take certifications and the value they have brought to my career and personal life.
 <br><br>
-I- First and foremost, I take certifications because they allow me to demonstrate my skills and expertise in a particular technology or subject matter. In today's competitive job market, having certifications can set you apart from other candidates and show potential employers that you have the knowledge and dedication required to succeed in your field.
+
+**First and foremost**, I take certifications because they allow me to demonstrate my skills and expertise in a particular technology or subject matter.
+
+If you do not choose an area of interest and devote countless hours to it, someone else will decide what you must do. I cannot guarantee that this will be a pleasant experience. It's not just about the cloud. Simply pick your passion.
+
+
+It happened to be the great cloud for me as such having certifications can set you apart from other candidates and show potential employers that you have the knowledge and dedication required to succeed in the cloud. Yeah, Life is very competitive.
 <br>
 <br>
 
-II- Certifications have also helped me to stay up-to-date on the latest trends and technologies. In the fast-paced world of technology, it is important to constantly learn and adapt, and certifications provide a <b>structured way</b> for me to do so.
+Further, preparing for certs all the time have also helped me to stay creative and be thirsty to learn more. 
+
+It is important to constantly learn and adapt, and certifications provide a <b>structured way</b> for me to do so.
 
 <br>
 
-III- **C**ertifications have also helped me to grow as a person. 
-- Earning a certification requires hard work, dedication, and a willingness to constantly learn and challenge myself. 
+**Being examined** have also helped me to grow as a person. 
+- Earning a certification requires hard work, dedication, and a willingness to constantly challenge myself and face my fears which literally fades in growth. 
 
 🎯These traits are not only valuable in my career, but in all aspects of my life.
 
