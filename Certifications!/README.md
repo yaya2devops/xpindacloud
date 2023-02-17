@@ -1,8 +1,10 @@
 # Cloud Computing Journey
 
-I am grateful for all of the knowledge and skills that I have earned, and I am eager to continue learning and growing as a professional. My journey has been filled with hard work and dedication, but it has also been incredibly rewarding.
+I am grateful for all of the knowledge and skills that I have earned, and I am eager to continue learning and growing as a professional. 
 
-<details> <summary> <b>Acquired Exams</b>  </summary>
+My journey has been filled with hard work and dedication, but it has also been incredibly rewarding.
+
+<details> <summary> <b>Check The Exams I Acquired</b>  </summary>
 <br>
 
 > Sort by timeline.
