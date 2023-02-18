@@ -73,7 +73,9 @@ These traits are not only valuable in my career, but in all aspects of my life.ð
 <summary> Are certifications pointless? </summary>
 <br>
 
-Those who claim that certifications do not matter either possess few or no certifications themselves and are attempting to emphasize the importance of their personal experience. While we certainly value experiences, it is also important to recognize that obtaining new certifications can broaden one's skillset and facilitate personal and professional growth. 
+Those who claim that certifications do not matter either possess few or no certifications themselves and are attempting to emphasize the importance of their personal experience.
+
+While we certainly value experiences, it is also important to recognize that obtaining new certifications can broaden one's skillset and facilitate personal and professional growth. 
 <br>
 <br>
 Consider the adage: are you having years of experiences or repeating the same year over and over?
@@ -83,7 +85,9 @@ Certs are a form of self-growth and my advice is to ignore most people because t
 <br>
 <br>
 Continue to look on my [cloud Journey](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/Certifications!#readme)!
-
+<br>
+<br>
+ 
 But before that ðŸ‘‡
 </details>
 
