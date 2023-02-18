@@ -49,6 +49,7 @@ I am confident that the skills and knowledge I'll gain further will be invaluabl
 
 I am filled with excitement and determination. I have dedicated myself to learning as much as possible about Azure and its various technologies, and have been fortunate enough to earn 13 Microsoft certifications. Along the way, I have encountered many challenges and faced numerous obstacles, but I have always persevered and worked hard to overcome them.
 
+Get started and click on the road.
 <details> <summary> The Road </summary>
 <img src="updateJourney.png">
 </details>
