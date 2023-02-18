@@ -29,6 +29,9 @@ My journey has been filled with hard work and dedication, but it has also been i
 - [19- Google Cloud Platform Associate Cloud Engineer](https://www.credential.net/3d40ab2e-b94f-4ea0-974b-1f8687b74691)
 - [20- Microsoft 365 Fundamentals](19-MS-900.pdf)
 - [21- Microsoft 365 Teams Administrator Associate](ms700.pdf)
+
+Check out some [Cloud and DevOps Fact!](https://devops.yahya-abulhaj.dev/)
+
 <details> <summary> Points to consider in the near future </summary>
 <br>
 
