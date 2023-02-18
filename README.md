@@ -42,14 +42,19 @@ Let me share with you why I take certifications and the value they have brought 
 
 **First and foremost**, I take certifications because they allow me to demonstrate my skills and expertise in a particular technology or subject matter.
 
-If you do not choose an area of interest and devote countless hours to it, someone else will decide what you must do. I cannot guarantee that this will be a pleasant experience. It's not just about the cloud. Simply pick your passion.
+If you do not choose an area of interest and devote countless hours to it, someone else will decide what you must do. I cannot guarantee that this will be a pleasant experience. It's not just about the cloud. 
 
+Simply pick your passion.
 
-It happened to be the great cloud for me as such having certifications can set you apart from other candidates and show potential employers that you have the knowledge and dedication required to succeed in the cloud. Yeah, Life is very competitive.
+It happened to be the great cloud for my case.
+
+As such having certifications **can** set you apart from other candidates and show potential employers that you have the knowledge and dedication required to succeed in the cloud. 
+
+Yeah, Life is very competitive.
 <br>
 <br>
 
-Further, preparing for certs all the time have also helped me to stay creative and be thirsty to learn more. 
+Further, preparing for certs all the time have helped me to stay creative and be thirsty to learn more and provide values. 
 
 It is important to constantly learn and adapt, and certifications provide a <b>structured way</b> for me to do so.
 
@@ -58,7 +63,9 @@ It is important to constantly learn and adapt, and certifications provide a <b>s
 **Being examined** have also helped me to grow as a person. 
 - Earning a certification requires hard work, dedication, and a willingness to constantly challenge myself and face my fears which literally fades in growth. 
 
-🎯These traits are not only valuable in my career, but in all aspects of my life.
+These traits are not only valuable in my career, but in all aspects of my life.🎯
+
+[Earl Nightingale](https://www.instagram.com/p/Cnw3Elcqms3/) once said that the more intensely we feel about an idea or a goal, the more assuredly the idea, buried deep in our subconscious, will direct us along the path to its fulfillment. 
 
 </details>
 
