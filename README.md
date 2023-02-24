@@ -66,6 +66,7 @@ It is important to constantly learn and adapt, and certifications provide a <b>s
 These traits are not only valuable in my career, but in all aspects of my life.🎯
 
 [Earl Nightingale](https://www.instagram.com/p/Cnw3Elcqms3/) once said that the more intensely we feel about an idea or a goal, the more assuredly the idea, buried deep in our subconscious, will direct us along the path to its fulfillment. 
+> I coudn't agree more. Legend.
 
 </details>
 
