@@ -3,14 +3,7 @@ This repository is a showcase of my cloud accomplishments and the assets I have 
 
 
 It highlights my skills and expertise in the cloud and demonstrates my dedication to staying innovative and never stop learning.
-
-**Main reason of doing so**, I hope to **inspire** and **motivate** others to pursue their own cloud journey and to strive for excellence in their careers.
-
-<img src="cover.png">
-
-
- 
-## ▶ Certifications
+## [▶ Certifications](Certifications!/README.md)
 <!--
 ### Aquired Exams
 > Sort by timeline.
@@ -34,4 +27,11 @@ It highlights my skills and expertise in the cloud and demonstrates my dedicatio
 
 ## ▶ [Cloud Notes](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/Notes#readme)
 ## ▶ [GitHub Grad](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
+
+**Main reason of doing so**, I hope to **inspire** and **motivate** others to pursue their own cloud journey and to strive for excellence in their careers.
+
+<img src="cover.png">
+
+
+
 
