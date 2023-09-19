@@ -1,9 +1,8 @@
 # Experiences - Migration loading 
-This repository is a showcase of my cloud accomplishments and the assets I have earned. 
+This repository is a showcase of my cloud accomplishments and the assets I have earned starting july 2021. 
 
 
-It highlights my skills and expertise in the cloud and demonstrates my dedication to staying innovative and never stop learning.
-## [▶ Certifications](Certifications!/README.md)
+It highlights my skills and expertise in the cloud and demonstrates my dedication to staying innovative and being unstoppable.
 <!--
 ### Aquired Exams
 > Sort by timeline.
@@ -24,10 +23,10 @@ It highlights my skills and expertise in the cloud and demonstrates my dedicatio
 - [15- AWS Certified Cloud Practitioner ](/Certifications!/14°%20AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
  -->
 
-## ▶ [Summer Intern](First_InternReport/README.md)
 
-## ▶ [Cloud Notes](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/Notes#readme)
-## ▶ [GitHub Grad](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)
+ |▶ [Summer Intern](First_InternReport/README.md)|[▶ Certifications](Certifications!/README.md)|
+ |---|---|
+ |▶ [Cloud Notes](https://github.com/Y4HYA4/ExperienceInCloud/tree/main/Notes#readme)|▶ [GitHub Grad](https://github.com/Y4HYA4/GitHubGraduation-2022/blob/main/README.md)|
 
 **Main reason of doing so**, I hope to **inspire** and **motivate** others to pursue their own cloud journey and to strive for excellence in their careers.
 
