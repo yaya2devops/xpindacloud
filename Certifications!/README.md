@@ -33,6 +33,7 @@ My journey has been filled with hard work and dedication, but it has also been i
 - [23- Microsoft Dynamics 365 Fundamentals ERP](https://learn.microsoft.com/en-us/certifications/d365-fundamentals-finance-and-operations-apps-erp/?sharingId=E903EFC622E517E9)
 - [24- Microsoft Cybersecurity Architect Expert](https://www.credly.com/badges/af087bf0-4291-44f2-b1dc-fad2efc13071)
 - [25- Google Cloud Platform Security Engineer Professional](https://google.accredible.com/36a671b9-5b76-439a-a16e-ddda37b48e9a)
+- [26- Microsoft Certified: Azure Cosmos DB Developer Specialty](https://learn.microsoft.com/api/credentials/share/en-us/yaya2devops/CA39B585FE2E39E3?sharingId=E903EFC622E517E9)
 
 Check out some [Cloud and DevOps Fact!](https://devops.yahya-abulhaj.dev/)
 
