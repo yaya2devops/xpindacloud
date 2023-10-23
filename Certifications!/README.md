@@ -36,6 +36,7 @@ My journey has been filled with hard work and dedication, but it has also been i
 - [26- Microsoft Certified: Azure Cosmos DB Developer Specialty](https://learn.microsoft.com/api/credentials/share/en-us/yaya2devops/CA39B585FE2E39E3?sharingId=E903EFC622E517E9)
 
 Check out some [Cloud and DevOps Fact!](https://devops.yahya-abulhaj.dev/)
+> My new domain is now at `ya-ya.tech` instead. Map the subdomain as required.
 
 <details> <summary> Points to consider in the near future </summary>
 <br>
