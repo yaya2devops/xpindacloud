@@ -10,7 +10,7 @@ Hello, please find my report written in Latex of my internship at Linedata below
 ## Template
 This is actually a good latex template to consider. LaTeX is a document preparation software system widely employed in creating books and I realized why.
 
-- Consider [this file](aide-memoire_Latex.pdf) to learn about its syntax
+###  Consider [my instructions for you](https://istic.computer-engineering.tech/#/learntex) to learn about its syntax
 
 
 The main file is where you should place your first focus: page-order & calling external tex files.
