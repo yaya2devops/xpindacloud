@@ -1,8 +1,11 @@
-# Cloud Computing Journey
+# Yaya Journey In The Sky
 
-I am grateful for all of the knowledge and skills that I have earned, and I am eager to continue learning and growing as a professional. 
+Grateful,
+for all of knowledge and skills I have earned, <br>
+I am so up to continue learning and growing in cloud as a professional. 
 
-My journey has been filled with hard work and dedication, but it has also been incredibly rewarding.
+The path has been filled with hard work and dedication. <br>
+But, incredibly rewarding.
 
 <details> <summary> <b>Check The Exams I Acquired</b>  </summary>
 <br>
@@ -16,7 +19,7 @@ My journey has been filled with hard work and dedication, but it has also been i
 - [6- Microsoft Azure Security Engineer Associate](6°AZ-500.pdf)
 - [7- Microsoft DevOps Engineer Expert](7°AZ-400.pdf)
 - [8- Microsoft Azure Developer Associate](8°AZ-204.pdf)
-- [9- Microsoft Certified Trainer 2022-2023](MCT.pdf)
+- [9- Microsoft Certified Trainer 2022 - 2023](MCT.pdf)
 - [10- Microsoft Security, Compliance, and Identity Fundamentals](9°SC-900.pdf)
 - [11- Terraform Associate ](10°Terraform.pdf)
 - [12- Microsoft Azure Solutions Architect Expert](11°AZ-305.pdf)
@@ -36,20 +39,22 @@ My journey has been filled with hard work and dedication, but it has also been i
 - [26- Microsoft Certified: Azure Cosmos DB Developer Specialty](https://learn.microsoft.com/api/credentials/share/en-us/yaya2devops/CA39B585FE2E39E3?sharingId=E903EFC622E517E9)
 - [27- ExamPro Terraformer: Terraform Beginner Bootcamp 2023](https://app.exampro.co/student/achievements/validate/certificate/krfzQ3l7KNdh41dl47wabw1b141)
 - [28- Professional Google Cloud DevOps Engineer](https://www.credential.net/1b363f6e-f3a5-41de-8623-a412e9ad2870)
-
+- [29- Microsoft Certified Trainer 2024 - 2025](mct-2024-2025.pdf)
+  
 Check out some [Cloud and DevOps Fact!](https://devops.yahya-abulhaj.dev/)
 > My new domain is now at `ya-ya.tech` instead. Map the subdomain as required.
 
 <details> <summary> Points to consider in the near future </summary>
 <br>
 
-Even after the great Microsoft marathon, my thirst for knowledge and desire to stay up-to-date with technology has not waned. In fact, I am now turning my focus to learn more about Amazon Web Services (AWS) and cloud native technologies.
+After the great Microsoft marathon, my thirst for knowledge and desire to stay up-to-date with technology has not waned. In fact, I am now turning my focus to learn more about AWS and cloud native technologies.
 
-I believe that having a diverse skill set is essential in today's fast-paced and constantly evolving tech industry, and I see such experience is an important step in my professional development.
+Having a diverse skill set is essential in today's fast-paced and constantly evolving tech industry, and I see such experience is an important step in my professional development.
 
-Aditionnaly, I'm interested in Microsoft 365 and the security of the modern workplace. So I'm going to put a lot of effort and experience into that, and I'll have more Microsoft certifications to work on as well.
+I'm interested in Microsoft 365 and the security of the modern workplace. So I'm going to put a lot of effort and force experience into that, and I'll have more Microsoft examinations to get tested on as well.
 
-I am confident that the skills and knowledge I'll gain further will be invaluable in my career and will help me to better serve the world.
+I am pretty confident that the skills and knowledge I'll gain further will be invaluable in my career and will help me to better serve the world.
+
 </details>
 
 
@@ -58,9 +63,19 @@ I am confident that the skills and knowledge I'll gain further will be invaluabl
 <details> <summary> <b>Microsoft Azure Journey³ </b></summary>
 <br>
 
-I am filled with excitement and determination. I have dedicated myself to learning as much as possible about Azure and its various technologies, and have been fortunate enough to earn 13 Microsoft certifications. Along the way, I have encountered many challenges and faced numerous obstacles, but I have always persevered and worked hard to overcome them.
+I am filled with excitement and determination. 
 
-Get started and click on the road.
+I have dedicated myself to learning as much as possible about Azure and its various technologies. 
+
+I have been fortunate enough to earn 17 Microsoft certifications. 
+
+Along the way, I have encountered many challenges and faced numerous obstacles.
+
+I have always persevered and worked hard to overcome them.
+
+Which are some of my rare and unique qualities.
+
+Get started and click on,
 <details> <summary> The Road </summary>
 <img src="updateJourney.png">
 </details>
