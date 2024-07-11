@@ -40,8 +40,9 @@ But, incredibly rewarding.
 - [27- ExamPro Terraformer: Terraform Beginner Bootcamp 2023](https://app.exampro.co/student/achievements/validate/certificate/krfzQ3l7KNdh41dl47wabw1b141)
 - [28- Professional Google Cloud DevOps Engineer](https://www.credential.net/1b363f6e-f3a5-41de-8623-a412e9ad2870)
 - [29- Microsoft Certified Trainer 2024 - 2025](mct-2024-2025.pdf)
-- [30- Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-ie/yaya2devops/2B3E012F85BCF89B?sharingId=E903EFC622E517E9)
-- [31- Not sure]()
+- [30- Microsoft Certified: Azure AI Engineer - Associate](https://learn.microsoft.com/api/credentials/share/en-ie/yaya2devops/2B3E012F85BCF89B?sharingId=E903EFC622E517E9)
+- [31- AWS Certified Data Engineer - Associate
+](AWS%20Certified%20Data%20Engineer%20-%20Associate%20certificate.pdf)
   
 Check out some [Cloud and DevOps Fact!](https://devops.yahya-abulhaj.dev/)
 > My new domain is now at `ya-ya.tech` instead. Map the subdomain as required.
