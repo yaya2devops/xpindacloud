@@ -43,6 +43,7 @@ But, incredibly rewarding.
 - [30- Microsoft Certified: Azure AI Engineer - Associate](https://learn.microsoft.com/api/credentials/share/en-ie/yaya2devops/2B3E012F85BCF89B?sharingId=E903EFC622E517E9)
 - [31- AWS Certified Data Engineer - Associate
 ](AWS%20Certified%20Data%20Engineer%20-%20Associate%20certificate.pdf)
+- [31- Professional Google Workspace Administrator Certification](https://www.credly.com/badges/64ab29ec-4af9-46d4-bc2d-d1574b1f8dae)
   
 Check out some [Cloud and DevOps Fact!](https://devops.yahya-abulhaj.dev/)
 > My new domain is now at `ya-ya.tech` instead. Map the subdomain as required.
